@@ -1,12 +1,13 @@
-package com.mostafa.WebSocketdemo;
+package com.darkcloudn.websocket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebSocketDemoApplication {
+public class WebsocketApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WebSocketDemoApplication.class, args);
+		SpringApplication.run(WebsocketApplication.class, args);
 	}
+
 }
